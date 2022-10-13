@@ -1,0 +1,64 @@
+
+/* BOTON ENVIAR */ 
+
+blockquote{
+	line-height: 50px; 
+	text-align: center;
+	width:90%;
+	padding:25px;
+	margin:100px ;
+	margin-left: 250px;
+	margin: 2rem auto;
+	
+}
+
+
+
+/* TEXTO MÉTODOS */
+
+h3{
+	background-color: #cf4c52f5 ;
+	text-align: center;
+	color:  #f7f2f2  ;
+	padding: 10px;
+	font-weight: 800;
+	font-size: 20px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+
+
+/* BOTONES DE MÈTODOS */
+
+
+button{
+	height: 50px;
+	margin: 10px ;
+	background-color: #7a91c7ea;
+	border-radius: 20px;
+	font-family: 'Roboto';
+	font-size: 20px;
+	font-weight: 500;
+}
+
+/* CONTENEDOR BOTONES */
+
+.contenedor{
+	background-color: #cf4c52f5;
+	font-family: 'Roboto';
+	height: 500px;
+	margin: 100px ;
+	margin: 2rem auto;
+	font-size: 26px;
+	border-radius: 10px;
+}
+
+
+/* FONDO Y TIPO DE LETRA  */
+
+body{
+	
+	font-family: 'Gisha';
+	background: linear-gradient(to right, #f7f6f6f5, #fbf8f9f5);	
+}
+
